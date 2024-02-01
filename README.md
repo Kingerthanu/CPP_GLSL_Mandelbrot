@@ -12,4 +12,7 @@ Some of the given .gifs will also be changing around some variables in our .frag
 <img width="656" alt="image" src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/8ccc6d9c-4c0d-4d7e-b280-4bb9ec6b61d1">
 
 **Demo 2:**
+
 ![nutTrim-ezgif com-optimize (3)](https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/9ae5ec1b-c52a-4df3-8c74-3a4a46a47f16)
+
+<img width="838" alt="image" src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/c0d97b6b-3501-4f28-a3a1-70055e96d7ee">
