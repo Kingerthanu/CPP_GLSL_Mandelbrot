@@ -5,7 +5,8 @@ even though we only really can see about half those detailed calculations.
 This project taught me a lot about how GLSL works around given pixels of a screen. It helped show me usages for triangle fan as well as how we still need some sort of indexes in order to properly tell GLSL that this is our canvas in which it can draw on as rest will be covered with our clearColor buffers which work as a backdrop.
 Some of the given .gifs will also be changing around some variables in our .frag function to tell where we will focus onto through our zoom. This project also isn't including our include folder as we are using the same one as before in my cellular automata (https://github.com/Kingerthanu/CPP_CellularAutomata_stage1).
 
-Demo 1:
+**Demo 1:**
+
 ![2024-01-3120-12-50-Trim-ezgif com-optimize (3)](https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/678e7a2c-74a4-4402-8124-d12ad35ed8e3)
 <img width="785" alt="image" src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/e6fbdce2-cf05-4b42-a365-2be7346f5475">
 <img width="656" alt="image" src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/8ccc6d9c-4c0d-4d7e-b280-4bb9ec6b61d1">
