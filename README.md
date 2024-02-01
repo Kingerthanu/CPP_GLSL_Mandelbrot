@@ -1,2 +1,6 @@
 # CPP_GLSL_Mandelbrot
-A C++ OpenGL project in which uses a simple C++ main driver as well as a shader class in order to do .frag shader art,
+Another C++ OpenGL project (yippe!!). This time I put heavy focus on the shaders to get a real understanding of how GLSL works around a window and how we can interpolate a given canvas. I also wanted to understand better how the CPU and GPU can communicate with eachother through uniforms so I tried messing around with
+dependency injection through uniforms for glsl. This is more a proof of concept and am gonna probably now go check how to optimize this better (watch out as this is already kind of melting a 3080's processing power) as I feel like we have room for improvement as it seems we are calculating too much fidelity on some larger scenes
+even though we only really can see about half those detailed calculations.
+This project taught me a lot about how GLSL works around given pixels of a screen. It helped show me usages for triangle fan as well as how we still need some sort of indexes in order to properly tell GLSL that this is our canvas in which it can draw on as rest will be covered with our clearColor buffers which work as a backdrop.
+Some of the given .gifs will also be changing around some variables in our .frag function to tell where we will focus onto through our zoom. This project also isn't including our include folder as we are using the same one as before in my cellular automata (https://github.com/Kingerthanu/CPP_CellularAutomata_stage1).
