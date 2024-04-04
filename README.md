@@ -3,7 +3,7 @@ Another C++ OpenGL project (yippe!!). This time I put heavy focus on the shaders
 dependency injection through uniforms for glsl. This is more a proof of concept and am gonna probably now go check how to optimize this better (watch out as this is already kind of melting a 3080's processing power) as I feel like we have room for improvement as it seems we are calculating too much fidelity on some larger scenes
 even though we only really can see about half those detailed calculations.
 
-<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/2c3dc82b-b7ac-4518-94fc-a4c43d018370" alt="Cornstarch <3" width="95" height="99">
+<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/2c3dc82b-b7ac-4518-94fc-a4c43d018370" alt="Cornstarch <3" width="95" height="119">
 
 This project taught me a lot about how GLSL works around given pixels of a screen. It helped show me usages for triangle fan as well as how we still need some sort of indexes in order to properly tell GLSL that this is our canvas in which it can draw on as rest will be covered with our clearColor buffers which work as a backdrop.
 Some of the given .gifs will also be changing around some variables in our .frag function to tell where we will focus onto through our zoom. This project also isn't including our include folder as we are using the same one as before in my cellular automata (https://github.com/Kingerthanu/CPP_CellularAutomata_stage1).
