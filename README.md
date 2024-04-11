@@ -10,7 +10,8 @@ Some of the given .gifs will also be changing around some variables in our .frag
 
 
 ----------------------------------------------
-<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/b8f1331f-644d-4b71-826e-2f24b4439292" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/b8f1331f-644d-4b71-826e-2f24b4439292" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/b8f1331f-644d-4b71-826e-2f24b4439292" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/b8f1331f-644d-4b71-826e-2f24b4439292" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/2f67082f-9155-40b2-b094-8ba892b90672" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/2f67082f-9155-40b2-b094-8ba892b90672" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/2f67082f-9155-40b2-b094-8ba892b90672" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/2f67082f-9155-40b2-b094-8ba892b90672" alt="Cornstarch <3" width="55" height="49">
+
 
 
 **The Breakdown:**
