@@ -22,6 +22,8 @@ Some of the given .gifs will also be changing around some variables in our .frag
 
 ----------------------------------------------
 
+<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/d408b7c2-4a1d-41eb-bc7d-89a33eda76ae" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/d408b7c2-4a1d-41eb-bc7d-89a33eda76ae" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/d408b7c2-4a1d-41eb-bc7d-89a33eda76ae" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/d408b7c2-4a1d-41eb-bc7d-89a33eda76ae" alt="Cornstarch <3" width="55" height="49">
+
 
 **Features:**
 
@@ -37,3 +39,7 @@ Some of the given .gifs will also be changing around some variables in our .frag
 
 **Demo 3 (Changed Color in Hash13()):**
 <img width="838" alt="image" src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/c0d97b6b-3501-4f28-a3a1-70055e96d7ee">
+
+
+
+<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/d25aac66-ec75-4f21-b4a7-3293b4692fa5" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/d25aac66-ec75-4f21-b4a7-3293b4692fa5" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/d25aac66-ec75-4f21-b4a7-3293b4692fa5" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/d25aac66-ec75-4f21-b4a7-3293b4692fa5" alt="Cornstarch <3" width="55" height="49">
