@@ -16,7 +16,14 @@ Some of the given .gifs will also be changing around some variables in our .frag
 
 **The Breakdown:**
 
+ This C++ Program Works To Use GLSL Shader Coding To Represent The Mandlebrot Equation.
 
+This Program Starts In Our C++ Driver But This Works To Create Our Shader With Our Provided Files In A Shader Class. This Will Use API Calls To Signify Which Shaders Our Given Instance Uses So We Can Hot Swap But Currnetly Are Only Using One With Our Mandlebrot Function.
+
+ When We Launch Our Shader Code We Also Set A Tick Counter In Which Will Be Indexed In Our While Loop. This Will Send In A Uniform (Variable Reference) To The Shader TO Use And This Will Be The Magnification To Give The Illusion Of Zooming In. 
+
+This Project Was Super Cool And Helped Really Solidify GPU Coding And How It Works Under The Hood. Instead Of Focusing More On The VBO And All Those Problems, Focusing JUST On The Shading Program Made ME Realize Actually How Powerful It Can Be If We Can Properly Divert Traffic To It For Quick Crunching Of Data For Both Parts.
+ 
 
 <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/eac58592-6933-4190-a02e-d6ae87d16243" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/eac58592-6933-4190-a02e-d6ae87d16243" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/eac58592-6933-4190-a02e-d6ae87d16243" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/eac58592-6933-4190-a02e-d6ae87d16243" alt="Cornstarch <3" width="55" height="49">
 
