@@ -18,6 +18,8 @@ Some of the given .gifs will also be changing around some variables in our .frag
 
 
 
+<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/eac58592-6933-4190-a02e-d6ae87d16243" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/eac58592-6933-4190-a02e-d6ae87d16243" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/eac58592-6933-4190-a02e-d6ae87d16243" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/eac58592-6933-4190-a02e-d6ae87d16243" alt="Cornstarch <3" width="55" height="49">
+
 ----------------------------------------------
 
 
