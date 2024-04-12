@@ -1,5 +1,5 @@
 # CPP_GLSL_Mandelbrot
-Another C++ OpenGL project (yippe!!). This time I put heavy focus on the shaders to get a real understanding of how GLSL works around a window and how we can interpolate a given canvas. I also wanted to understand better how the CPU and GPU can communicate with eachother through uniforms so I tried messing around with
+Another C++ OpenGL project. This time I put heavy focus on the shaders to get a real understanding of how GLSL works around a window and how we can interpolate a given canvas. I also wanted to understand better how the CPU and GPU can communicate with eachother through uniforms so I tried messing around with
 dependency injection through uniforms for glsl. This is more a proof of concept and am gonna probably now go check how to optimize this better (watch out as this is already kind of melting a 3080's processing power) as I feel like we have room for improvement as it seems we are calculating too much fidelity on some larger scenes
 even though we only really can see about half those detailed calculations.
 
